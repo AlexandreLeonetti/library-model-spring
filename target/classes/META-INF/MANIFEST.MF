@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ubuntu
+Build-Jdk: 17.0.10
+Implementation-Title: Spring Boot Blank Project (from https://github.com
+ /making/spring-boot-blank)
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.example.springLibrary.App
+Created-By: Maven Integration for Eclipse
+
